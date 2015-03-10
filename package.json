@@ -1,0 +1,28 @@
+{
+  "name": "kv-line-chart",
+  "version": "1.0.0",
+  "description": "Line chart react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kevnz/kv-line-chart.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "chart",
+    "charts"
+  ],
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "Mozilla",
+  "bugs": {
+    "url": "https://github.com/Kevnz/kv-line-chart/issues"
+  },
+  "homepage": "https://github.com/Kevnz/kv-line-chart",
+  "dependencies": {
+    "react": "^0.12.2"
+  }
+}
