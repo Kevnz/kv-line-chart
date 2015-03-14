@@ -1,4 +1,4 @@
-class BarGraph extends React.Component {
+class LineGraph extends React.Component {
     constructor(props) {
         super(props);
     }
@@ -7,7 +7,7 @@ class BarGraph extends React.Component {
         console.log(this.props);
         console.log(this.state);
         var calculateRange = function (data) {
-          
+
         }
         return (
             <svg className="graph">
